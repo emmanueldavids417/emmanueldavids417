@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Emmanuel Davids
+- 👀 I’m interested in software Enginers...
+- 🌱 I’m currently learning Software Enginering
+- 💞️ I’m looking to collaborate on Programmers
+- 📫 You can reach me on emmanueldavids@gmail.com
